@@ -1,0 +1,34 @@
+
+.btn_danger{
+  color: #ffff;
+  background:  #d9534f;
+  border-color: #d43f3a;
+  padding: 10px;
+  width: 60%;
+  font-size: 12pt;
+  display: block;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.for_Registro{
+width: 550px;
+margin: auto;
+margin-top: 20px;
+
+}
+h1{
+  background-color:+inherit;
+
+  display:block;
+}
+
+from{
+  background:#ffff;
+}
+label{
+  display: block;
+  font-size:  12px;
+  font-family: Arial,Helvertical,sans-serif;;
+  margin: 15px auto 5px auto;
+}
